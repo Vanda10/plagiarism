@@ -62,7 +62,7 @@ if page == "DOC/TXT":
                 st.write("The documents are not plagiarized.")
 
 elif page == "Raw Text":
-    st.title("N-Gram Cosine Similarity")
+    st.title("Plagiarism Detection System")
 
     st.write("Enter two texts to compute their cosine similarity based on n-gram vectors.")
 
