@@ -1,0 +1,5 @@
+streamlit
+streamlit_navigation_bar
+scikit-learn
+pymupdf   
+watchdog
